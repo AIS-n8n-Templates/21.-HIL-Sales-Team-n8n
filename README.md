@@ -67,6 +67,10 @@ flowchart TD
 
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/AIS-n8n-Templates/21.-HIL-Sales-Team-n8n/main/Thumbnail.png)](https://www.youtube.com/watch?v=tjl8CK088a4)
+
+---
+
 ## ⚙️ **Node-by-Node Configuration**
 
 ### **Step 1: Airtable Trigger**
